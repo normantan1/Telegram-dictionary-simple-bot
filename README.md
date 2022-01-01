@@ -15,9 +15,12 @@ Data is scaped from thefreedictionary.com
 
 # AllOWED COMMANDS
 
-/help - guide users to navigate their way while using the bot 
+/help - guide users to navigate their way while using the bot
+
 /start - to kickoff for users using the bot 
+
 /search [word] - search for the definition of a word scraped from thefredictionary.com
+
 /view - view the history of words searched by the user
 
 # DEMO
