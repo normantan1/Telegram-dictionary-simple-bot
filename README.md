@@ -19,7 +19,9 @@ Data is scaped from thefreedictionary.com
 
 /start - to kickoff for users using the bot 
 
-/search [word] - search for the definition of a word scraped from thefredictionary.com
+/hello - to greet its users
+
+/search word - search for the definition of a word scraped from thefredictionary.com
 
 /view - view the history of words searched by the user
 
